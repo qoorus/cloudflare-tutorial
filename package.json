@@ -1,0 +1,12 @@
+{
+  "name": "qoorus-vn-poc",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.118.0",
+    "@cloudflare/workers-types": "^5.20260813.1"
+  }
+}
